@@ -18,6 +18,8 @@ This tableau dashboard provides comprehensive insights into retail sales perform
  * Filters and Parameters
 ## Business Objective:
 This Dashboard helps organization understand sales pattern,forecast demand, optimize inventory and support strategic decision making through data-driven insights
+### Interactive Dashboard
+https://public.tableau.com/app/profile/shimna.kareem/viz/RetialSalesDemandForecastingDashboard/Dashboard1?publish=yes
  
 
 
